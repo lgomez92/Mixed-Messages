@@ -52,4 +52,4 @@ Uses random number generator to output 3 random messages to the console,
 7. Let go and let the universe do its thing.
 8. Everything's gonna be cool.
 9. Love bad things from a good distance.
-10. Some things are just too heavy to haul around.
+10. Some things are just too heavy to haul around.# Mixed-Messages
