@@ -43,10 +43,7 @@ const printsOutput = (quotesArray, confidentQuote, lettingGoQuote) => {
   let confQuote = confidentQuote[generateRandomIndex()];
   let letgoQuote = lettingGoQuote[generateRandomIndex()];
   console.log(`General Quotes\n -${genQuote}\n Confidence Quote\n -${confQuote}\n letting Go Quote\n ${letgoQuote}`);
-  //console.log(quotesArray[generateRandomIndex()]);
   
 }
 
 printsOutput(quotesArray, confidentQuote, lettingGoQuote);
-
-//console.log(generateRandomIndex());
